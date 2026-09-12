@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T15:53:14.241Z",
+  "updatedAt": "2026-09-12T15:53:55.094Z",
   "tasks": [
     {
       "id": "01M2B0QV5WE5C35A8ND3VG8HGX",
@@ -24,6 +24,11 @@
       "id": "01M2B54FXRGEX3CTEP2SFQ608K",
       "name": "verify",
       "color": "#808080"
+    },
+    {
+      "id": "01M2B56HMPRG3WTNV3NVVHHZ7W",
+      "name": "あああ",
+      "color": "#7fbbb3"
     }
   ]
 }
