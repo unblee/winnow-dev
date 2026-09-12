@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T14:35:59.037Z",
+  "updatedAt": "2026-09-12T15:52:47.801Z",
   "tasks": [
     {
       "id": "01M2B0QV5WE5C35A8ND3VG8HGX",
       "title": "winnow-dev 動作確認",
       "notes": "",
-      "status": "inbox",
+      "status": "done",
       "priority": 3,
       "project": "verify",
       "tags": [
@@ -15,9 +15,15 @@
       "due": "2026-12-31",
       "order": 0,
       "createdAt": "2026-09-12T14:35:59.036Z",
-      "updatedAt": "2026-09-12T14:35:59.036Z",
-      "completedAt": null
+      "updatedAt": "2026-09-12T15:52:47.800Z",
+      "completedAt": "2026-09-12T15:52:47.800Z"
     }
   ],
-  "projects": []
+  "projects": [
+    {
+      "id": "01M2B54FXRGEX3CTEP2SFQ608K",
+      "name": "verify",
+      "color": "#808080"
+    }
+  ]
 }
