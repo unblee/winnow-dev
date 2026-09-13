@@ -1,3 +1,4 @@
 .tasks.lock
 .tasks.*.tmp
 .DS_Store
+tasks.json.*.bak
